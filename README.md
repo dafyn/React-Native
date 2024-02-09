@@ -1,2 +1,2 @@
 # React-Native
-me learninf react native to build a app
+me learning react native to build a app
